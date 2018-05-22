@@ -1,7 +1,7 @@
 {
     "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
     "project": {
-        "name": "loginapp"
+        "name": "testloginapp"
     },
     "apps": [{
         "root": "src",
@@ -20,7 +20,7 @@
         "styles": [
             "styles.scss",
 	    "../node_modules/font-awesome/css/font-awesome.css",
-            "../node_modules/amexio-ng-extensions/styles/css/at-am-matrix.css"
+            "../node_modules/amexio-ng-extensions/styles/css/at-md-blue.css"
         ],
         "scripts": [],
         "environmentSource": "environments/environment.ts",
