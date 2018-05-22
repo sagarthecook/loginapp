@@ -1,0 +1,18 @@
+{
+  "response":{
+    "data":[
+      {
+        "stateName":"Maharashtra",
+        "stateId":"maharashtra"
+      },
+        {
+        "stateName":"Kerala",
+        "stateId":"rerala"
+      },
+        {
+        "stateName":"Goa",
+        "stateId":"goa"
+      }
+      ]
+  }
+}

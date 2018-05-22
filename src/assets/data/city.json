@@ -1,0 +1,18 @@
+{
+  "response":{
+    "data":[
+      {
+        "cityName":"Kolhapur",
+        "cityId":"kolhapur"
+      },
+        {
+        "cityName":"Pune",
+        "cityId":"pune"
+      },
+        {
+        "cityName":"Mumbai",
+        "cityId":"munbai"
+      }
+      ]
+  }
+}

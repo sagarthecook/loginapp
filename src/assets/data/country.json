@@ -1,0 +1,26 @@
+{
+  "response":{
+    "data":[
+      {
+        "countryName":"India",
+        "countryId":"india"
+      },
+        {
+        "countryName":"Myanmar",
+        "countryId":"myanmar"
+      },
+        {
+        "countryName":"Latvia",
+        "countryId":"latvia"
+      },
+        {
+        "countryName":"Reunion",
+        "countryId":"reunion"
+      },
+        {
+        "countryName":"Slovenia",
+        "countryId":"slovenia"
+      }
+      ]
+  }
+}
